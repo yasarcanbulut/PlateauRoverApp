@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlateauRoverApp", "PlateauRoverApp\PlateauRoverApp.csproj", "{61F76B52-9B1C-4922-BE2A-DF317353A9D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61F76B52-9B1C-4922-BE2A-DF317353A9D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F76B52-9B1C-4922-BE2A-DF317353A9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F76B52-9B1C-4922-BE2A-DF317353A9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F76B52-9B1C-4922-BE2A-DF317353A9D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5B615B7-B92A-4533-84F1-019C45F82282}
+	EndGlobalSection
+EndGlobal
